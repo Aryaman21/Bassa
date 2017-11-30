@@ -1,7 +1,8 @@
+![logo](http://gdurl.com/7XYK)
+
 [![Build Status](https://travis-ci.org/scorelab/Bassa.svg?branch=master)](https://travis-ci.org/scorelab/Bassa)
 [![PyPI](https://img.shields.io/pypi/dm/Bassa.svg)]()
 [![PyPI](https://img.shields.io/pypi/v/Bassa.svg)]()
-![logo](http://gdurl.com/7XYK)
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/scorelab/scorelab)
 
 Automated Download Queue for Enterprise to take the best use of Internet bandwidth
